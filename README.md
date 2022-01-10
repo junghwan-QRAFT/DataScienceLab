@@ -3,7 +3,7 @@ Laboratory for Data Science, Machine Learning, AI
 
 ## SQL
 - SQL 학습 내용을 정리한 README.md 파일입니다.
-- 
+- 계속 업데이트 중입니다 :)
 
 ## Assignments
 - 노티 다이어리 시각화
