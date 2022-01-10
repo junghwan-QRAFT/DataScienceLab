@@ -1,9 +1,9 @@
 ## Kaggle Cosmetic Data Analysis
 https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
 
-**(1) e-commerce ex1**
+**(1) Product Correlation Map**
 e-commerce 데이터를 보고 상품군 간의 관계에 대해 알아보고자 한 실험입니다.
-어떤 상품들이 구매에 있어서 상관관계가 높은지 확인하였습니다.
+어떤 상품들이 구매에 있어서 상관관계가 높은지 확인하
 
 **(2) RFM Analysis**
 경영학에서 User 분석 시 많이 사용하는 방법론인 RFM 분석을 구현하였습니다.
