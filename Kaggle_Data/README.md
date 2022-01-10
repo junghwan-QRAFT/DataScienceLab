@@ -1,4 +1,5 @@
 ## 1. Kaggle Cosmetic Data Analysis
+https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
 
 **(1) e-commerce ex1**
 e-commerce 데이터를 보고 상품군 간의 관계에 대해 알아보고자 한 실험입니다.
