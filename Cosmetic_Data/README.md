@@ -1,4 +1,4 @@
-## 1. Kaggle Cosmetic Data Analysis
+## Kaggle Cosmetic Data Analysis
 https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
 
 **(1) e-commerce ex1**
