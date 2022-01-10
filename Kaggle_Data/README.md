@@ -1,4 +1,5 @@
-## View Ipynb with Nbviewer
+## 1. Kaggle Cosmetic Data Analysis
+
 **(1) e-commerce ex1**
 e-commerce 데이터를 보고 상품군 간의 관계에 대해 알아보고자 한 실험입니다.
 어떤 상품들이 구매에 있어서 상관관계가 높은지 확인하였습니다.
