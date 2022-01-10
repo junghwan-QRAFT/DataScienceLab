@@ -15,7 +15,11 @@ Laboratory for Data Science, Machine Learning, AI
 - 삼성전자 주가 예측 with ARIMA, Prophet
 - 2021 국토교통 데이터 시각화 대회
 
-## Kaggle
+## Cosmetic Data
+- Product Purchase Correlation Map
 - RFM clustering with Amazon Data
 - View to Purchase, Click to Purchase
 
+## XAI
+- Titanic 생존 여부 예측 모델의 Feature Importance
+- 
